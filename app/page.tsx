@@ -1,3 +1,4 @@
+import Image from 'next/image';
 export default function Home() {
   return (
     <main className='relative min-h-screen w-full overflow-hidden'>
@@ -17,10 +18,10 @@ export default function Home() {
       <div className='absolute inset-0 bg-black/50 z-10' />
 
       <div className='relative z-20 flex flex-col items-center justify-center min-h-screen text-center text-white px-4 py-8 space-y-4'>
-        <img
+        <Image
           src='/rsf-logo.png'
           alt='Rare Souls Films Logo'
-          className='w-60 sm:w-96 mb-2 invert'
+          className='w-60 sm:w-96 mb-2 invert opacity-75 hover:opacity-100 transition duration-300'
         />
 
         <p className='font-serif text-xl sm:text-2xl opacity-90 max-w-md text-white-300'>

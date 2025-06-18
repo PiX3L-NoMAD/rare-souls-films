@@ -10,9 +10,9 @@ export default function About() {
         neurodivergent-powered production company
         that tells stories for the misfits, the
         feelers, the beautifully strange. Our
-        films don’t follow the rules — they follow
-        the raw, the real, and the gut punch of
-        human experience.
+        films don&apos;t follow the rules — they
+        follow the raw, the real, and the gut
+        punch of human experience.
       </p>
 
       <p>
@@ -41,12 +41,13 @@ export default function About() {
 
       <p>
         Janilee is neurodivergent (and proudly
-        so). She’s lived everywhere from Sweden to
-        Uruguay to the U.S. to the U.K., picking
-        up stories like souvenirs and turning
-        existential crises into scripts. She
-        believes in magic, melancholy, messiness,
-        and making things that actually matter.
+        so). She&apos;s lived everywhere from
+        Sweden to Uruguay to the U.S. to the U.K.,
+        picking up stories like souvenirs and
+        turning existential crises into scripts.
+        She believes in magic, melancholy,
+        messiness, and making things that actually
+        matter.
       </p>
     </div>
   );
