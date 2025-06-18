@@ -19,9 +19,9 @@ export default function About() {
         We believe the weird is beautiful. The
         outsider is the hero. And cinema should
         rattle your spirit, not lull you to sleep.
-        We're here for the bruised hearts, the
-        offbeat dreamers, and the rare minds that
-        see the world sideways.
+        We&apos;re here for the bruised hearts,
+        the offbeat dreamers, and the rare minds
+        that see the world sideways.
       </p>
 
       <h2 className='text-xl font-serif mt-8'>
@@ -40,14 +40,13 @@ export default function About() {
       </p>
 
       <p>
-        Janilee is neurodivergent (and proudly
-        so). She&apos;s lived everywhere from
-        Sweden to Uruguay to the U.S. to the U.K.,
-        picking up stories like souvenirs and
-        turning existential crises into scripts.
-        She believes in magic, melancholy,
-        messiness, and making things that actually
-        matter.
+        Janilee is neurodivergent. She&apos;s
+        lived everywhere from Sweden to Uruguay to
+        the U.S. to the U.K., picking up stories
+        like souvenirs and turning existential
+        crises into scripts. She believes in
+        magic, melancholy, messiness, and making
+        things that actually matter.
       </p>
     </div>
   );
