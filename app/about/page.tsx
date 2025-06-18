@@ -35,8 +35,8 @@ export default function About() {
         She earned her film degree from Santa
         Monica College in Los Angeles back in
         2016, then later trained as an actor at
-        ArtsEd in London, completing her master's
-        in acting in 2024.
+        ArtsEd in London, completing her
+        master&apos;s in acting in 2024.
       </p>
 
       <p>
